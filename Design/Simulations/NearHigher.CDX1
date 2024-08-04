@@ -241,23 +241,23 @@
       <SustainerLaunchWt>16.2</SustainerLaunchWt>
       <SustainerNozzleDiameter>2.5</SustainerNozzleDiameter>
       <SustainerCG>46.96</SustainerCG>
-      <SustainerIgnitionDelay>0</SustainerIgnitionDelay>
+      <SustainerIgnitionDelay>6</SustainerIgnitionDelay>
       <Booster1Engine>L2200G  (AT)</Booster1Engine>
       <Booster1LaunchWt>31.8</Booster1LaunchWt>
       <Booster1SeparationDelay>0.5</Booster1SeparationDelay>
       <Booster1IgnitionDelay>0</Booster1IgnitionDelay>
       <Booster1CG>74.65</Booster1CG>
       <Booster1NozzleDiameter>2.5</Booster1NozzleDiameter>
-      <IncludeBooster1>False</IncludeBooster1>
+      <IncludeBooster1>True</IncludeBooster1>
       <Booster2LaunchWt>0</Booster2LaunchWt>
       <Booster2Delay>0</Booster2Delay>
       <Booster2CG>0</Booster2CG>
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-      <TimetoApogee>32.90049</TimetoApogee>
-      <MaxAltitude>24365.36</MaxAltitude>
-      <MaxVelocity>2445.786</MaxVelocity>
+      <TimetoApogee>52.3877</TimetoApogee>
+      <MaxAltitude>49870.34</MaxAltitude>
+      <MaxVelocity>3183.107</MaxVelocity>
       <OptimumWt>0</OptimumWt>
       <OptimumMaxAlt>0</OptimumMaxAlt>
     </Simulation>
