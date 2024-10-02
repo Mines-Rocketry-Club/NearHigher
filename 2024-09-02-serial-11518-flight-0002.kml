@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>AO Flight#2 S/N: 11518</name>
+  <Snippet maxLines="8">
+Product: TeleMetrum-v4.0
+Firmware: 1.9.17
+Date: 2024-09-02
+Time: 18:00:21
+Max baro height:    739 m
+Max GPS Height:    771 m
+Max speed:    133 m/s
+Max accel:     67 m/s²
+  </Snippet>
+  <open>1</open>
+  <Folder>
+    <name>Barometric Altitude</name>
+    <Style id="ao-style-baro">
+      <LineStyle><color>FF0000FF</color><width>8</width></LineStyle>
+      <BalloonStyle>
+        <text>
+Barometric Altitude
+Max height:    739 m
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Barometric Altitude</name>
+      <styleUrl>#ao-style-baro</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -97.7326421,37.1657858,385.9725239 <!-- alt  387.0000000 time    0.0000000 sats 15 -->
+          -97.7326340,37.1657843,389.7404351 <!-- alt  391.0000000 time    0.0000000 sats 14 -->
+          -97.7326035,37.1657689,411.0892827 <!-- alt  417.0000000 time    0.0000000 sats 14 -->
+          -97.7324683,37.1657501,468.7538335 <!-- alt  479.0000000 time    0.0000000 sats 12 -->
+          -97.7321696,37.1657213,555.9460268 <!-- alt  573.0000000 time    0.0000000 sats 11 -->
+          -97.7317479,37.1656920,663.5649534 <!-- alt  689.0000000 time    0.0000000 sats 11 -->
+          -97.7312850,37.1656775,693.7775831 <!-- alt  806.0000000 time    0.0000000 sats 11 -->
+          -97.7308838,37.1656535,820.7930321 <!-- alt  903.0000000 time    0.0000000 sats 10 -->
+          -97.7305278,37.1656349,916.8055127 <!-- alt  980.0000000 time    0.0000000 sats 10 -->
+          -97.7302139,37.1656273,986.9145922 <!-- alt 1040.0000000 time    0.0000000 sats 13 -->
+          -97.7299333,37.1656094,1044.8111931 <!-- alt 1087.0000000 time    0.0000000 sats 13 -->
+          -97.7296680,37.1655868,1080.9352123 <!-- alt 1120.0000000 time    0.0000000 sats 13 -->
+          -97.7294273,37.1655511,1105.7015059 <!-- alt 1144.0000000 time    0.0000000 sats 15 -->
+          -97.7291962,37.1655316,1119.3946762 <!-- alt 1156.0000000 time    0.0000000 sats 15 -->
+          -97.7289744,37.1655101,1122.5218759 <!-- alt 1158.0000000 time    0.0000000 sats 15 -->
+          -97.7287634,37.1654889,1116.1765036 <!-- alt 1151.0000000 time    0.0000000 sats 13 -->
+          -97.7285637,37.1654661,1099.0912680 <!-- alt 1135.0000000 time    0.0000000 sats 12 -->
+          -97.7283768,37.1654403,1090.7427976 <!-- alt 1109.0000000 time    0.0000000 sats 13 -->
+          -97.7282432,37.1654005,1071.3201193 <!-- alt 1083.0000000 time    0.0000000 sats 13 -->
+          -97.7281854,37.1653627,1054.5840464 <!-- alt 1058.0000000 time    0.0000000 sats 15 -->
+          -97.7281733,37.1653368,1023.0158868 <!-- alt 1034.0000000 time    0.0000000 sats 15 -->
+          -97.7281866,37.1653096,998.6312353 <!-- alt 1011.0000000 time    0.0000000 sats 15 -->
+          -97.7282073,37.1652882,977.3877094 <!-- alt  986.0000000 time    0.0000000 sats 15 -->
+          -97.7282346,37.1652752,962.1631644 <!-- alt  961.0000000 time    0.0000000 sats 15 -->
+          -97.7282717,37.1652681,948.1368113 <!-- alt  934.0000000 time    0.0000000 sats 15 -->
+          -97.7283129,37.1652653,904.4619140 <!-- alt  908.0000000 time    0.0000000 sats 15 -->
+          -97.7283575,37.1652673,891.5036617 <!-- alt  880.0000000 time    0.0000000 sats 15 -->
+          -97.7284105,37.1652546,862.9455354 <!-- alt  853.0000000 time    0.0000000 sats 15 -->
+          -97.7284683,37.1652345,827.8689739 <!-- alt  825.0000000 time    0.0000000 sats 15 -->
+          -97.7285240,37.1652269,803.2144363 <!-- alt  797.0000000 time    0.0000000 sats 15 -->
+          -97.7285925,37.1652322,779.7917059 <!-- alt  768.0000000 time    0.0000000 sats 15 -->
+          -97.7286652,37.1652356,758.7309331 <!-- alt  740.0000000 time    0.0000000 sats 15 -->
+          -97.7287340,37.1652182,715.1473536 <!-- alt  713.0000000 time    0.0000000 sats 15 -->
+          -97.7288153,37.1652103,696.0713787 <!-- alt  686.0000000 time    0.0000000 sats 15 -->
+          -97.7288924,37.1652114,665.8520159 <!-- alt  659.0000000 time    0.0000000 sats 15 -->
+          -97.7289579,37.1652143,662.1577832 <!-- alt  632.0000000 time    0.0000000 sats 15 -->
+          -97.7290047,37.1652061,599.7327705 <!-- alt  607.0000000 time    0.0000000 sats 15 -->
+          -97.7291062,37.1652097,586.8052930 <!-- alt  589.0000000 time    0.0000000 sats 15 -->
+          -97.7292657,37.1652101,572.4968190 <!-- alt  579.0000000 time    0.0000000 sats 14 -->
+          -97.7294042,37.1651866,560.9955560 <!-- alt  568.0000000 time    0.0000000 sats 14 -->
+          -97.7295360,37.1651527,552.7260672 <!-- alt  559.0000000 time    0.0000000 sats 15 -->
+          -97.7296346,37.1651121,541.5944992 <!-- alt  549.0000000 time    0.0000000 sats 15 -->
+          -97.7297152,37.1650883,528.1309329 <!-- alt  537.0000000 time    0.0000000 sats 15 -->
+          -97.7298026,37.1650869,517.2860052 <!-- alt  525.0000000 time    0.0000000 sats 15 -->
+          -97.7299061,37.1650718,513.3846205 <!-- alt  513.0000000 time    0.0000000 sats 15 -->
+          -97.7299967,37.1650428,501.4295637 <!-- alt  502.0000000 time    0.0000000 sats 14 -->
+          -97.7300601,37.1650054,491.1316143 <!-- alt  489.0000000 time    0.0000000 sats 15 -->
+          -97.7301063,37.1650065,476.6971406 <!-- alt  476.0000000 time    0.0000000 sats 15 -->
+          -97.7301656,37.1650244,467.3730122 <!-- alt  464.0000000 time    0.0000000 sats 15 -->
+          -97.7302602,37.1650408,453.7473043 <!-- alt  453.0000000 time    0.0000000 sats 15 -->
+          -97.7303771,37.1650399,445.9938512 <!-- alt  442.0000000 time    0.0000000 sats 15 -->
+          -97.7304807,37.1650158,430.5043748 <!-- alt  431.0000000 time    0.0000000 sats 15 -->
+          -97.7305616,37.1649779,421.7287542 <!-- alt  419.0000000 time    0.0000000 sats 15 -->
+          -97.7306127,37.1649564,410.5315726 <!-- alt  407.0000000 time    0.0000000 sats 14 -->
+          -97.7306730,37.1649580,397.7946634 <!-- alt  396.0000000 time    0.0000000 sats 15 -->
+          -97.7307447,37.1649491,389.3121942 <!-- alt  384.0000000 time    0.0000000 sats 15 -->
+          -97.7307748,37.1649451,384.6027145 <!-- alt  379.0000000 time    0.0000000 sats 12 -->
+          -97.7307685,37.1649453,384.7739308 <!-- alt  379.0000000 time    0.0000000 sats 15 -->
+          -97.7307687,37.1649499,384.2602905 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307657,37.1649481,384.5171075 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307679,37.1649463,384.5941538 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307703,37.1649432,384.8595432 <!-- alt  381.0000000 time    0.0000000 sats 15 -->
+          -97.7307729,37.1649407,384.2602905 <!-- alt  381.0000000 time    0.0000000 sats 15 -->
+          -97.7307745,37.1649385,383.9178778 <!-- alt  381.0000000 time    0.0000000 sats 15 -->
+          -97.7307741,37.1649395,383.9178778 <!-- alt  381.0000000 time    0.0000000 sats 15 -->
+          -97.7307744,37.1649398,383.8322764 <!-- alt  381.0000000 time    0.0000000 sats 15 -->
+          -97.7307748,37.1649398,383.2330865 <!-- alt  381.0000000 time    0.0000000 sats 15 -->
+          -97.7307749,37.1649397,384.8595400 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307749,37.1649396,384.4315011 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307752,37.1649396,384.9023768 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307753,37.1649394,385.7156709 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307754,37.1649397,384.8595400 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307761,37.1649395,384.3458955 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307774,37.1649390,384.7739308 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307780,37.1649389,384.1746863 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307783,37.1649387,384.4315011 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="ao-style-baro-boost">
+      <LabelStyle><color>FF0000FF</color></LabelStyle>
+      <IconStyle><color>FF0000FF</color></IconStyle>
+      <BalloonStyle>
+        <text>
+Boost (Baro)
+Max accel     67 m/s²
+Max speed    133 m/s
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Boost (Baro)</name>
+      <styleUrl>#ao-style-baro-boost</styleUrl>
+      <Point>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -97.7326421,37.1657858,387.5137763 <!-- alt  387.0000000 time    0.0000000 sats 15 -->
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Style id="ao-style-baro-coast">
+      <LabelStyle><color>FF4080FF</color></LabelStyle>
+      <IconStyle><color>FF4080FF</color></IconStyle>
+      <BalloonStyle>
+        <text>
+Coast (Baro)
+Entry speed    133 m/s
+Entry height    281 m
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Coast (Baro)</name>
+      <styleUrl>#ao-style-baro-coast</styleUrl>
+      <Point>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -97.7317479,37.1656920,667.7876200 <!-- alt  689.0000000 time    0.0000000 sats 11 -->
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Style id="ao-style-baro-drogue">
+      <LabelStyle><color>FF00FFFF</color></LabelStyle>
+      <IconStyle><color>FF00FFFF</color></IconStyle>
+      <BalloonStyle>
+        <text>
+Drogue (Baro)
+Max height    739 m
+Average descent rate     23 m/s
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Drogue (Baro)</name>
+      <styleUrl>#ao-style-baro-drogue</styleUrl>
+      <Point>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -97.7289744,37.1655101,1121.9699473 <!-- alt 1158.0000000 time    0.0000000 sats 15 -->
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Style id="ao-style-baro-main">
+      <LabelStyle><color>FF00FF00</color></LabelStyle>
+      <IconStyle><color>FF00FF00</color></IconStyle>
+      <BalloonStyle>
+        <text>
+Main (Baro)
+Entry speed     34 m/s
+Entry height    241 m
+Average descent rate     12 m/s
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Main (Baro)</name>
+      <styleUrl>#ao-style-baro-main</styleUrl>
+      <Point>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -97.7289579,37.1652143,627.7012711 <!-- alt  632.0000000 time    0.0000000 sats 15 -->
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Style id="ao-style-baro-landed">
+      <LabelStyle><color>FF000000</color></LabelStyle>
+      <IconStyle><color>FF000000</color></IconStyle>
+      <BalloonStyle>
+        <text>
+Landed (Baro)
+Landing speed      4 m/s
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Landed (Baro)</name>
+      <styleUrl>#ao-style-baro-landed</styleUrl>
+      <Point>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -97.7307447,37.1649491,385.1163718 <!-- alt  384.0000000 time    0.0000000 sats 15 -->
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>GPS Altitude</name>
+    <Style id="ao-style-gps">
+      <LineStyle><color>FFFF0000</color><width>8</width></LineStyle>
+      <BalloonStyle>
+        <text>
+GPS AltitudeMax height:    771 m
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>GPS Altitude</name>
+      <styleUrl>#ao-style-gps</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -97.7326421,37.1657858,387.0000000 <!-- alt  387.0000000 time    0.0000000 sats 15 -->
+          -97.7326340,37.1657843,391.0000000 <!-- alt  391.0000000 time    0.0000000 sats 14 -->
+          -97.7326035,37.1657689,417.0000000 <!-- alt  417.0000000 time    0.0000000 sats 14 -->
+          -97.7324683,37.1657501,479.0000000 <!-- alt  479.0000000 time    0.0000000 sats 12 -->
+          -97.7321696,37.1657213,573.0000000 <!-- alt  573.0000000 time    0.0000000 sats 11 -->
+          -97.7317479,37.1656920,689.0000000 <!-- alt  689.0000000 time    0.0000000 sats 11 -->
+          -97.7312850,37.1656775,806.0000000 <!-- alt  806.0000000 time    0.0000000 sats 11 -->
+          -97.7308838,37.1656535,903.0000000 <!-- alt  903.0000000 time    0.0000000 sats 10 -->
+          -97.7305278,37.1656349,980.0000000 <!-- alt  980.0000000 time    0.0000000 sats 10 -->
+          -97.7302139,37.1656273,1040.0000000 <!-- alt 1040.0000000 time    0.0000000 sats 13 -->
+          -97.7299333,37.1656094,1087.0000000 <!-- alt 1087.0000000 time    0.0000000 sats 13 -->
+          -97.7296680,37.1655868,1120.0000000 <!-- alt 1120.0000000 time    0.0000000 sats 13 -->
+          -97.7294273,37.1655511,1144.0000000 <!-- alt 1144.0000000 time    0.0000000 sats 15 -->
+          -97.7291962,37.1655316,1156.0000000 <!-- alt 1156.0000000 time    0.0000000 sats 15 -->
+          -97.7289744,37.1655101,1158.0000000 <!-- alt 1158.0000000 time    0.0000000 sats 15 -->
+          -97.7287634,37.1654889,1151.0000000 <!-- alt 1151.0000000 time    0.0000000 sats 13 -->
+          -97.7285637,37.1654661,1135.0000000 <!-- alt 1135.0000000 time    0.0000000 sats 12 -->
+          -97.7283768,37.1654403,1109.0000000 <!-- alt 1109.0000000 time    0.0000000 sats 13 -->
+          -97.7282432,37.1654005,1083.0000000 <!-- alt 1083.0000000 time    0.0000000 sats 13 -->
+          -97.7281854,37.1653627,1058.0000000 <!-- alt 1058.0000000 time    0.0000000 sats 15 -->
+          -97.7281733,37.1653368,1034.0000000 <!-- alt 1034.0000000 time    0.0000000 sats 15 -->
+          -97.7281866,37.1653096,1011.0000000 <!-- alt 1011.0000000 time    0.0000000 sats 15 -->
+          -97.7282073,37.1652882,986.0000000 <!-- alt  986.0000000 time    0.0000000 sats 15 -->
+          -97.7282346,37.1652752,961.0000000 <!-- alt  961.0000000 time    0.0000000 sats 15 -->
+          -97.7282717,37.1652681,934.0000000 <!-- alt  934.0000000 time    0.0000000 sats 15 -->
+          -97.7283129,37.1652653,908.0000000 <!-- alt  908.0000000 time    0.0000000 sats 15 -->
+          -97.7283575,37.1652673,880.0000000 <!-- alt  880.0000000 time    0.0000000 sats 15 -->
+          -97.7284105,37.1652546,853.0000000 <!-- alt  853.0000000 time    0.0000000 sats 15 -->
+          -97.7284683,37.1652345,825.0000000 <!-- alt  825.0000000 time    0.0000000 sats 15 -->
+          -97.7285240,37.1652269,797.0000000 <!-- alt  797.0000000 time    0.0000000 sats 15 -->
+          -97.7285925,37.1652322,768.0000000 <!-- alt  768.0000000 time    0.0000000 sats 15 -->
+          -97.7286652,37.1652356,740.0000000 <!-- alt  740.0000000 time    0.0000000 sats 15 -->
+          -97.7287340,37.1652182,713.0000000 <!-- alt  713.0000000 time    0.0000000 sats 15 -->
+          -97.7288153,37.1652103,686.0000000 <!-- alt  686.0000000 time    0.0000000 sats 15 -->
+          -97.7288924,37.1652114,659.0000000 <!-- alt  659.0000000 time    0.0000000 sats 15 -->
+          -97.7289579,37.1652143,632.0000000 <!-- alt  632.0000000 time    0.0000000 sats 15 -->
+          -97.7290047,37.1652061,607.0000000 <!-- alt  607.0000000 time    0.0000000 sats 15 -->
+          -97.7291062,37.1652097,589.0000000 <!-- alt  589.0000000 time    0.0000000 sats 15 -->
+          -97.7292657,37.1652101,579.0000000 <!-- alt  579.0000000 time    0.0000000 sats 14 -->
+          -97.7294042,37.1651866,568.0000000 <!-- alt  568.0000000 time    0.0000000 sats 14 -->
+          -97.7295360,37.1651527,559.0000000 <!-- alt  559.0000000 time    0.0000000 sats 15 -->
+          -97.7296346,37.1651121,549.0000000 <!-- alt  549.0000000 time    0.0000000 sats 15 -->
+          -97.7297152,37.1650883,537.0000000 <!-- alt  537.0000000 time    0.0000000 sats 15 -->
+          -97.7298026,37.1650869,525.0000000 <!-- alt  525.0000000 time    0.0000000 sats 15 -->
+          -97.7299061,37.1650718,513.0000000 <!-- alt  513.0000000 time    0.0000000 sats 15 -->
+          -97.7299967,37.1650428,502.0000000 <!-- alt  502.0000000 time    0.0000000 sats 14 -->
+          -97.7300601,37.1650054,489.0000000 <!-- alt  489.0000000 time    0.0000000 sats 15 -->
+          -97.7301063,37.1650065,476.0000000 <!-- alt  476.0000000 time    0.0000000 sats 15 -->
+          -97.7301656,37.1650244,464.0000000 <!-- alt  464.0000000 time    0.0000000 sats 15 -->
+          -97.7302602,37.1650408,453.0000000 <!-- alt  453.0000000 time    0.0000000 sats 15 -->
+          -97.7303771,37.1650399,442.0000000 <!-- alt  442.0000000 time    0.0000000 sats 15 -->
+          -97.7304807,37.1650158,431.0000000 <!-- alt  431.0000000 time    0.0000000 sats 15 -->
+          -97.7305616,37.1649779,419.0000000 <!-- alt  419.0000000 time    0.0000000 sats 15 -->
+          -97.7306127,37.1649564,407.0000000 <!-- alt  407.0000000 time    0.0000000 sats 14 -->
+          -97.7306730,37.1649580,396.0000000 <!-- alt  396.0000000 time    0.0000000 sats 15 -->
+          -97.7307447,37.1649491,384.0000000 <!-- alt  384.0000000 time    0.0000000 sats 15 -->
+          -97.7307748,37.1649451,379.0000000 <!-- alt  379.0000000 time    0.0000000 sats 12 -->
+          -97.7307685,37.1649453,379.0000000 <!-- alt  379.0000000 time    0.0000000 sats 15 -->
+          -97.7307687,37.1649499,380.0000000 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307657,37.1649481,380.0000000 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307679,37.1649463,380.0000000 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307703,37.1649432,381.0000000 <!-- alt  381.0000000 time    0.0000000 sats 15 -->
+          -97.7307729,37.1649407,381.0000000 <!-- alt  381.0000000 time    0.0000000 sats 15 -->
+          -97.7307745,37.1649385,381.0000000 <!-- alt  381.0000000 time    0.0000000 sats 15 -->
+          -97.7307741,37.1649395,381.0000000 <!-- alt  381.0000000 time    0.0000000 sats 15 -->
+          -97.7307744,37.1649398,381.0000000 <!-- alt  381.0000000 time    0.0000000 sats 15 -->
+          -97.7307748,37.1649398,381.0000000 <!-- alt  381.0000000 time    0.0000000 sats 15 -->
+          -97.7307749,37.1649397,380.0000000 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307749,37.1649396,380.0000000 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307752,37.1649396,380.0000000 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307753,37.1649394,380.0000000 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307754,37.1649397,380.0000000 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307761,37.1649395,380.0000000 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307774,37.1649390,380.0000000 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307780,37.1649389,380.0000000 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+          -97.7307783,37.1649387,380.0000000 <!-- alt  380.0000000 time    0.0000000 sats 15 -->
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="ao-style-gps-boost">
+      <LabelStyle><color>FF0000FF</color></LabelStyle>
+      <IconStyle><color>FF0000FF</color></IconStyle>
+      <BalloonStyle>
+        <text>
+Boost (GPS)
+Max accel     67 m/s²
+Max speed    133 m/s
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Boost (GPS)</name>
+      <styleUrl>#ao-style-gps-boost</styleUrl>
+      <Point>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -97.7326421,37.1657858,387.0000000 <!-- alt  387.0000000 time    0.0000000 sats 15 -->
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Style id="ao-style-gps-coast">
+      <LabelStyle><color>FF4080FF</color></LabelStyle>
+      <IconStyle><color>FF4080FF</color></IconStyle>
+      <BalloonStyle>
+        <text>
+Coast (GPS)
+Entry speed    133 m/s
+Entry height    302 m
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Coast (GPS)</name>
+      <styleUrl>#ao-style-gps-coast</styleUrl>
+      <Point>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -97.7317479,37.1656920,689.0000000 <!-- alt  689.0000000 time    0.0000000 sats 11 -->
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Style id="ao-style-gps-drogue">
+      <LabelStyle><color>FF00FFFF</color></LabelStyle>
+      <IconStyle><color>FF00FFFF</color></IconStyle>
+      <BalloonStyle>
+        <text>
+Drogue (GPS)
+Max height    771 m
+Average descent rate     23 m/s
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Drogue (GPS)</name>
+      <styleUrl>#ao-style-gps-drogue</styleUrl>
+      <Point>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -97.7289744,37.1655101,1158.0000000 <!-- alt 1158.0000000 time    0.0000000 sats 15 -->
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Style id="ao-style-gps-main">
+      <LabelStyle><color>FF00FF00</color></LabelStyle>
+      <IconStyle><color>FF00FF00</color></IconStyle>
+      <BalloonStyle>
+        <text>
+Main (GPS)
+Entry speed     34 m/s
+Entry height    245 m
+Average descent rate     12 m/s
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Main (GPS)</name>
+      <styleUrl>#ao-style-gps-main</styleUrl>
+      <Point>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -97.7289579,37.1652143,632.0000000 <!-- alt  632.0000000 time    0.0000000 sats 15 -->
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Style id="ao-style-gps-landed">
+      <LabelStyle><color>FF000000</color></LabelStyle>
+      <IconStyle><color>FF000000</color></IconStyle>
+      <BalloonStyle>
+        <text>
+Landed (GPS)
+Landing speed      4 m/s
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Landed (GPS)</name>
+      <styleUrl>#ao-style-gps-landed</styleUrl>
+      <Point>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          -97.7307447,37.1649491,384.0000000 <!-- alt  384.0000000 time    0.0000000 sats 15 -->
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
